@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jean
+# 👋 Hola, soy Jean Luis Oropeza
 
 ## Full Stack Developer | React & Next.js
 
