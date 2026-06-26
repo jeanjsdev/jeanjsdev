@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Jean
 
-<!--
-**jeanjsdev/jeanjsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | React & Next.js
 
-Here are some ideas to get you started:
+🇻🇪 Venezolano | 🇪🇸 Viviendo en Zaragoza, España
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+Desarrollador full stack con formación universitaria en informática y más de X años construyendo aplicaciones web. Me especializo en React, Next.js y bases de datos, buscando siempre código limpio y soluciones eficientes.
+
+### 🛠️ Tecnologías
+
+- React | Next.js | TypeScript
+- Node.js | Express | REST APIs
+- PostgreSQL | MongoDB | Firebase
+- Git | GitHub | Vercel | Docker
+
+### 📌 Proyectos destacados
+
+Próximamente...
+
+### 📫 Contáctame
+
+- Portfolio: [jeanjsdev](https://tinyurl.com/jeanjsdev)
+- LinkedIn: [jeanjsdev](https://linkedin.com/in/jeanjsdev)
+- Email: jean@jeanjsdev.com
+
