@@ -23,5 +23,5 @@ Próximamente...
 
 - Portfolio: [jeanjsdev](https://tinyurl.com/jeanjsdev)
 - LinkedIn: [jeanjsdev](https://linkedin.com/in/jeanjsdev)
-- Email: jean@jeanjsdev.com
+- Email: jeanjsdev@gmail.com
 
